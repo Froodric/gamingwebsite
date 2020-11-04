@@ -11,7 +11,7 @@ body {
 }
 
 .background {
-  background: url("league.jpg");
+  background-image: url("league.jpg");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
