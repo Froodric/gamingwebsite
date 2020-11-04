@@ -11,7 +11,7 @@ body {
 }
 
 .background {
-  background-image: url("https://github.com/Froodric/gamingwebsite/blob/main/league.jpg");
+  background: url("../img/league.jpg");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
