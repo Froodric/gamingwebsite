@@ -1,3 +1,4 @@
+// ändra text beroende på vilken du klickat på
 var game1 = document.getElementById("img1");
 var game2 = document.getElementById("img2");
 var game3 = document.getElementById("img3");
@@ -21,6 +22,7 @@ game3.addEventListener("click", function () {
   HeaderText.innerHTML = "TEST";
 });
 
+// Gör så att den du klickar på blir aktiv
 var activeimg = document.getElementsByClassName("imgelement");
 
 for (var i = 0; i < activeimg.length; i++) {
