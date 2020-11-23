@@ -101,7 +101,6 @@ button:hover {
 
 .grid {
   width: 100%;
-
   position: relative;
   display: flex;
   text-align: center;
@@ -112,6 +111,7 @@ button:hover {
   width: 100%;
   max-width: 1000px;
   height: auto;
+  
   transition: ease-in-out 0.2s;
 }
 
